@@ -7,6 +7,6 @@ setup(
     version='0.1',
     scripts=['scripts/rodipugen.py'],
     license='GPLv3',
-    long_description=open('README').read(),
+    long_description=open('README.md').read(),
     url='http://palkosoftware.ddns.net/software/rodipugen',
 )
